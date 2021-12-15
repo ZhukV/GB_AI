@@ -1,2 +1,0 @@
-Hello, my name's Vitalii Zhuk
-I'm a student and learn Python programming language
